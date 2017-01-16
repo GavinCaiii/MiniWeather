@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MiniWeather</string>
+    <string name="city_manager">城市管理</string>
+    <string name="theme_skin">主题皮肤</string>
+    <string name="check_update">检查更新</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="others">其他</string>
+    <string name="share">分享天气</string>
+    <string name="exit">退出</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
 </resources>

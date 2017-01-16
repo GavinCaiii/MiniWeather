@@ -35,6 +35,8 @@ dependencies {
     // glide
     compile 'com.github.bumptech.glide:glide:3.7.0'
 
+    // 圆形图标
+    compile 'de.hdodenhof:circleimageview:2.1.0'
 
     // retrofit 2.0
     compile 'com.squareup.retrofit2:retrofit:2.1.0'
