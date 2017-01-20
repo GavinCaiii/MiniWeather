@@ -12,4 +12,10 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
+    <string name="find_city">搜索城市</string>
+    <string name="find_city...">搜索城市...</string>
+    <string name="hot_city">热门城市</string>
+    <string name="all_city">根据省市选择</string>
+    <string name="add_city">添加城市</string>
+
 </resources>
